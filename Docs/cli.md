@@ -24,4 +24,4 @@ Options: Common options include:
 
 -b: Numbers only non-empty output lines.
 
--E: Displays a dollar sign at the end of each line.
+
