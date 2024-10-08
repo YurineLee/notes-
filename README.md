@@ -36,6 +36,8 @@ Names: Right parenthesis, Close parenthesis
 [Github Pages](https://pages.github.com/)
 
 [George Brown College](https://www.georgebrown.ca/)
+
+[CLI commands](Docs/cli.md)
 # Experiments
 :umbrella::snowman::snowflake::cherry_blossom::mute: :santa::jack_o_lantern::ghost:
 ## Search Experiments
